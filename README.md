@@ -1,35 +1,45 @@
-# News Feed Simulator
+# My Profile App 
 
-Aplikasi Android sederhana untuk menampilkan dan mengelola simulasi news feed.
+My Profile App adalah aplikasi sederhana yang dibuat menggunakan **Kotlin** dan **Jetpack Compose**. Aplikasi ini menampilkan informasi profil pengguna dalam satu halaman.
 
-## Fitur
+## Tools
 
-- Menampilkan daftar berita
-- Filter berita berdasarkan kategori
-- Kategori Teknologi, Kesehatan, Olahraga, Ekonomi, dan Pendidikan
-- Menandai berita sebagai sudah dibaca
-- Menghitung jumlah berita yang sudah dibaca
-- Menggunakan Kotlin, Jetpack Compose, Flow, Coroutines, dan StateFlow
+* Menampilkan foto profil
+* Menampilkan nama pengguna
+* Menampilkan pekerjaan atau status sebagai mahasiswa
+* Menampilkan bio singkat
+* Menampilkan informasi email
+* Menampilkan nomor telepon
+* Menampilkan lokasi
+* Tombol Follow
 
 ## Teknologi yang Digunakan
 
-- Kotlin
-- Android Studio
-- Jetpack Compose
-- Kotlin Coroutines
-- Kotlin Flow
-- StateFlow
+* Kotlin
+* Jetpack Compose
+* Material 3
+* Android Studio
 
-## Cara Menjalankan
+## Composable Function
 
-1. Clone atau download repository ini.
-2. Buka project menggunakan Android Studio.
-3. Tunggu proses Gradle Sync selesai.
-4. Pilih emulator atau perangkat Android.
-5. Tekan tombol Run.
-6. Aplikasi akan berjalan pada perangkat atau emulator Android.
+Aplikasi ini menggunakan beberapa Composable Function yang reusable, yaitu:
 
-## Package
+* `ProfileScreen()`
+* `ProfileHeader()`
+* `ProfileBio()`
+* `ProfileCard()`
+* `InfoItem()`
+
+## Tujuan
+
+Aplikasi ini dibuat sebagai tugas untuk mempraktikkan penggunaan **Kotlin dan Jetpack Compose**, khususnya dalam membuat tampilan profil sederhana dengan beberapa Composable Function yang dapat digunakan kembali.
+
+## Author
+
+**Regina Cahyani Puteri**
+**124140063**
+Teknik Informatika
+
 
 com.example.newsfeedsimulator
 
