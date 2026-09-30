@@ -6,8 +6,8 @@ My Profile App adalah aplikasi sederhana yang dibuat menggunakan **Kotlin** dan 
 
 * Menampilkan foto profil
 * Menampilkan nama pengguna
-* Menampilkan pekerjaan atau status sebagai mahasiswa
-* Menampilkan bio singkat
+* Menampilkan status 
+* Menampilkan bio 
 * Menampilkan informasi email
 * Menampilkan nomor telepon
 * Menampilkan lokasi
